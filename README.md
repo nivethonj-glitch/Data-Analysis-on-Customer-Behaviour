@@ -1,4 +1,5 @@
-Customer Behavior Analytics Dashboard
+Customer Behavior Analytics Dashboard:
+
 A end-to-end data analytics project that processes raw e-commerce customer transactions, extracts key business insights using advanced SQL querying, and visualizes KPIs through an interactive Power BI dashboard.
 
 🛠️ Tech Stack & Workflow
